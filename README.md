@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="40%" height="auto" src="https://i.ibb.co/BGWnppN/Whats-App-Image-2022-06-15-at-17-30-49.jpg" height="175px"/></a>
+<a href="#"><img width="20%" height="auto" src="https://i.ibb.co/BGWnppN/Whats-App-Image-2022-06-15-at-17-30-49.jpg" height="175px"/></a>
 </p>
 
 <h1 align="center">
