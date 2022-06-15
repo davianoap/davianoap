@@ -11,12 +11,9 @@ Hi, I'm Daviano Anugrah Pratama
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+(+on+going+)"></a>
 
 <a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white
-"/></a>
-<a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-"/></a>
-<a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-"/></a>
+<a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/davianoap/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 
